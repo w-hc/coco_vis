@@ -1,0 +1,5 @@
+# opencv (select the version that suits your needs)
+opencv-python
+
+# coco-api
+pycocotools
